@@ -1,0 +1,1057 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"update",
+				"updateTables1"
+			],
+			[
+				"api",
+				"apiKey"
+			],
+			[
+				"thumb",
+				"thumbnail"
+			],
+			[
+				"item",
+				"itemDetails"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"drop",
+				"dropdown-toggle"
+			],
+			[
+				"child",
+				"nth-child"
+			],
+			[
+				"ui-me",
+				"ui-menu-item"
+			],
+			[
+				"validate",
+				"form-validate"
+			],
+			[
+				"search",
+				"searchform"
+			],
+			[
+				"messag",
+				"messages"
+			],
+			[
+				"put",
+				"putScroll"
+			],
+			[
+				"suppo",
+				"supportSec"
+			],
+			[
+				"sen",
+				"sendMsg"
+			],
+			[
+				"supp",
+				"support-section"
+			],
+			[
+				"sup",
+				"support-search"
+			],
+			[
+				"support",
+				"supportUl"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"btn",
+				"btn-group"
+			],
+			[
+				"dro",
+				"dropdown-menu"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ql",
+				"qLoverlay"
+			],
+			[
+				"Eas",
+				"easeInExpo"
+			],
+			[
+				"coll",
+				"collapseBtn"
+			],
+			[
+				"loading",
+				"loadingAnimation"
+			],
+			[
+				"error",
+				"errorContainer"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"dropdo",
+				"dropdown-menu"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"ow",
+				"overflow"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"wizz",
+				"wizzard-form"
+			],
+			[
+				"login",
+				"loginContainer"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"fix",
+				"contentFix"
+			],
+			[
+				"ui-sl",
+				"ui-slider-range"
+			],
+			[
+				"content",
+				"contentFix"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"verdana",
+				"Verdana, Geneva, Arial, Helvetica, sans-serif"
+			],
+			[
+				"char",
+				"chartColours"
+			],
+			[
+				"mainnav",
+				"mainNavCurrent"
+			],
+			[
+				"mainna",
+				"mainNavCurrent"
+			],
+			[
+				"mainn",
+				"mainNavCurrent"
+			],
+			[
+				"sidebar",
+				"sidebarH"
+			],
+			[
+				"fc-wid",
+				"fc-widget-header"
+			],
+			[
+				"ref",
+				"refreshPage"
+			],
+			[
+				"t",
+				"text-bottom"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"icon",
+				"icon"
+			],
+			[
+				"chart",
+				"chartColours"
+			],
+			[
+				"rand",
+				"randNum"
+			],
+			[
+				"step",
+				"stepDelay"
+			],
+			[
+				"ste",
+				"steps"
+			],
+			[
+				"circle",
+				"circleWhite"
+			],
+			[
+				"toggle",
+				"togglePlus"
+			],
+			[
+				"togg",
+				"togglePlus"
+			],
+			[
+				"conte",
+				"contentH"
+			],
+			[
+				"side",
+				"sideMinH"
+			],
+			[
+				"copy",
+				"copyrights"
+			],
+			[
+				"respo",
+				"responsive-nav"
+			],
+			[
+				"socia",
+				"social-share"
+			],
+			[
+				"blog-po",
+				"blog-popular-posts"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"container",
+				"containerWidth"
+			],
+			[
+				"stic",
+				"stickyFooter"
+			],
+			[
+				"ed",
+				"ededed"
+			],
+			[
+				"over",
+				"overflow	overflow: type"
+			],
+			[
+				"overlow",
+				"overflow-x"
+			],
+			[
+				"logi",
+				"loginWrapper"
+			],
+			[
+				"ser",
+				"sans-serif"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"cont",
+				"contentH"
+			],
+			[
+				"cal",
+				"calfix"
+			],
+			[
+				"visi",
+				"visibility	visibility: type"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"notification",
+				"notificationBar"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"he",
+				"head"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"err",
+				"errorWrapper"
+			],
+			[
+				"mini",
+				"minimize"
+			],
+			[
+				"fff",
+				"fffdf8"
+			],
+			[
+				"webki-",
+				"webkit-border-radius"
+			],
+			[
+				"webk",
+				"webkit-border-radius"
+			],
+			[
+				"webkit-bo",
+				"webkit-border-radius"
+			],
+			[
+				"moz-bo",
+				"moz-border-radius"
+			],
+			[
+				"ui-ac",
+				"ui-accordion-header"
+			],
+			[
+				"tabicon",
+				"tabIconActive"
+			],
+			[
+				"web",
+				"webkit-border-radius"
+			],
+			[
+				"main",
+				"mainNavLink"
+			],
+			[
+				"piechar",
+				"pieChart"
+			],
+			[
+				"pie",
+				"pieChart2"
+			],
+			[
+				"sh",
+				"box-shadow"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sideb",
+				"sidebarH"
+			],
+			[
+				"con",
+				"contentH"
+			],
+			[
+				"win",
+				"winHeight"
+			],
+			[
+				"moz-",
+				"moz-border-radius"
+			],
+			[
+				"sid",
+				"sidebarHeight"
+			],
+			[
+				"avat",
+				"avatarTop"
+			],
+			[
+				"conten",
+				"contentHeight"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"top",
+				"topNav"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"page",
+				"pageHeight"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"ine",
+				"inherit"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"pieC",
+				"pieChart"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bars",
+				"barsChart"
+			],
+			[
+				"border",
+				"borderWidth"
+			],
+			[
+				"dyna",
+				"dynamicChart"
+			],
+			[
+				"cha",
+				"chartClass"
+			],
+			[
+				"div",
+				"divClass"
+			],
+			[
+				"ch",
+				"chartClass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/SuggeElson/Desktop/supr admin/user-test/dashboard.html",
+			"settings":
+			{
+				"buffer_size": 58272,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/SuggeElson/Desktop/supr admin/user-test/js/main.js",
+		"/C/Users/SuggeElson/Desktop/supr admin/user-test/js/statistic.js",
+		"/C/Users/SuggeElson/Desktop/supr admin/user-test/dashboard.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/js/main.js",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/fixed-sidebar.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/css/main.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/dashboard.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/elements.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/test.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/data-table1.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/plugins/responsive-tables/responsive-tables.js",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/plugins/responsive-tables/_orig_responsive-tables.js",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/plugins/responsive-tables/responsive-long-tables.js",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/tables.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/plugins/responsive-tables/responsive-tables.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/widgets.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/right-sidebar.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/tooltips.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/upload.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/plugins/uploader/fileuploader.css",
+		"/D/xampp/htdocs/supr.com/upload.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/plugins/smartWizzard/smart_wizard.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/css/supr-theme/jquery.ui.theme.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/plugins/fileupload/jquery.fileupload-ui.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-rtl/dashboard.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/plugins/uniform/uniform.default.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/structure.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/forms.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/robtest/js/main.js",
+		"/C/Users/SuggeElson/Desktop/supr admin/robtest/forms.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/robtest/events.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/robtest/css/main.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/robtest/custom.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/faq.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/css/rtl.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/support.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/email.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/search.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/profile.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/invoice.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/index.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/403.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/offline.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/typo.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/css/icons.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/data-table.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/forms-validation.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/charts.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/js/statistic.js",
+		"/C/Users/SuggeElson/Desktop/Enotif/js/script.js",
+		"/C/Users/SuggeElson/Desktop/Enotif/css/style.css",
+		"/C/Users/SuggeElson/Desktop/Enotif/index.html",
+		"/C/Users/SuggeElson/Desktop/Enotif/popup.html",
+		"/C/Users/SuggeElson/Desktop/Enotif/js/jquery.js",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/fixed-topbar.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/no-sidebar.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/two-sidebars.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/css/main.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/js/main.js",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/css/bootstrap/bootstrap.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/css/bootstrap/bootstrap.min.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/right-sidebar.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/search.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/widgets.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/typo.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/tables.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/support.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/structure.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/profile.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/offline.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/invoice.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/icons.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/forms.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/grid.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/forms-validation.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/fixed-topbar.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/file.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/faq.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/email.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/elements.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/data-table.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/dashboard.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/charts.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/calendar.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/buttons.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/icons.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/index.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/css/icons.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/plugins/select/select2.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/plugins/uniform/uniform.default.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/calendar.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/plugins/validate/validate.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/grid.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/file.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/buttons.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/js/app.js",
+		"/C/Users/SuggeElson/Desktop/WorkSpace/suggeelson.com/index.html",
+		"/C/Users/SuggeElson/Downloads/test.php",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/plugins/ibutton/jquery.ibutton.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/css/supr-theme/jquery.ui.combobox.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/rightsidebar.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/css/supr-theme/jquery.ui.supr.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/css/supr-theme/jquery.ui.autocomplete.css",
+		"/D/xampp/htdocs/rt.com/index.php",
+		"/D/xampp/htdocs/rt.com/selector/styles.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/user-test/js/app.js",
+		"/C/Users/SuggeElson/Desktop/supr admin/user-test/js/structure.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-rtl/css/rtl.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-rtl/css/main.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/css/supr-theme/jquery-ui-timepicker-addon.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/user-test/css/main.css",
+		"/C/Users/SuggeElson/Desktop/supr admin/user-test/forms.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/user-test/structure.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/supr.sublime-project",
+		"/D/xampp/htdocs/supr.com/js/main.js",
+		"/D/xampp/htdocs/supr.com/css/main.css",
+		"/D/xampp/htdocs/supr.com/crud.html",
+		"/D/xampp/htdocs/rt.com/index.html",
+		"/D/xampp/htdocs/rt.com/selector/imagepreview.js",
+		"/C/Users/SuggeElson/Desktop/index.php",
+		"/D/xampp/htdocs/rotator.com/index.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/403.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/404.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/405.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/500.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/503.html",
+		"/C/Users/SuggeElson/Desktop/supr admin/html-fixed/supr.sublime-project",
+		"/C/Users/SuggeElson/Desktop/supr admin/html/404.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"circular",
+			"nav",
+			"tabs",
+			"table",
+			"data",
+			"#sidebar",
+			"scroll",
+			"#sidebar",
+			"tool",
+			"tooltips",
+			"tip",
+			"tips",
+			";\n",
+			"wizard",
+			"volunteers",
+			"stepContainer",
+			"item",
+			"sidebar",
+			"#content",
+			"content",
+			";\n",
+			"navbar",
+			"faq.html",
+			"wizard",
+			"select",
+			"wizard",
+			"#sidebar",
+			"calendar",
+			"tab-content",
+			"form-row",
+			"error",
+			".controls",
+			"label",
+			"label.error",
+			".error",
+			".controls",
+			"faq.html",
+			"#faq",
+			"tabs",
+			"silk",
+			"icon",
+			"combo",
+			"autocomplete",
+			"icon",
+			"entypo",
+			"ent",
+			"enty",
+			"entypo",
+			"icon",
+			".fixed",
+			".controls",
+			".label",
+			"*/\n",
+			"#content",
+			"icon",
+			"Optional font-face icons just remove if not want it",
+			"#collapse",
+			"#up",
+			"#top",
+			"tabs",
+			"calendar",
+			"error",
+			"validate",
+			"select1",
+			"select",
+			"#theme",
+			"tags",
+			"text-align: left;",
+			"float:left",
+			"valid",
+			"validation",
+			"-->\n",
+			"console.",
+			"form-va",
+			".form-row",
+			"email.html",
+			"email.html.",
+			"email.html",
+			"support.html",
+			"more",
+			".box",
+			"select",
+			"date",
+			"date-picker",
+			"datepicker",
+			"border-ra.",
+			"border-ra",
+			".WP",
+			"console.log",
+			"email.html",
+			">\n",
+			"email.html",
+			"scroll",
+			"{\n",
+			".tabs",
+			"load",
+			"scroll",
+			".scroll",
+			"scroll",
+			".search",
+			".resBt",
+			"5px",
+			".heading",
+			"search.html",
+			"console.log",
+			"search.html",
+			"search",
+			"<a href=\"#\">",
+			"<td class=\"check\"><input type=\"checkbox\" id=\"checkbox\" value=\"1\" class=\"styled\" /></td>",
+			"email",
+			"check",
+			".select",
+			"<td class=\"star\"><span class=\"icon16 icomoon-icon-star\"></span></td>",
+			"dynamic",
+			"profile.html",
+			".profile.html",
+			"                    \n",
+			".pagina",
+			"paginate",
+			"shortc",
+			"active",
+			"active3",
+			"active",
+			"popover",
+			"here",
+			".form",
+			".btn",
+			".tabs-right"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"text-align: right;",
+			"float: right",
+			"<a href=\"#\" class=\"link\">",
+			"<td class=\"check\"><input type=\"checkbox\" id=\"checkbox\" value=\"1\" class=\"nostyle\" /></td>",
+			"<td class=\"star\"><span class=\"icon16 icomoon-icon-star-3\"></span></td>",
+			"class=\"row-fluid\"",
+			"row-fluid",
+			"row",
+			"container",
+			".scrollContent",
+			".scroll",
+			"horizontal",
+			"images/",
+			".table",
+			".dataTable",
+			"#c4c4c4",
+			".display",
+			"images/",
+			"row",
+			"zoom-icon-",
+			"awesome-icon-",
+			".awesome-icon4-",
+			".icon4-",
+			"icon4-",
+			"#4da7be",
+			"#88BBC8",
+			"#50c0dc",
+			"#88BBC8",
+			"icon3-cancel",
+			"../images/checkboxes",
+			"form-label",
+			"span12",
+			"form-row",
+			"700",
+			"icon1-grid",
+			"icon4-grid",
+			"icon4-",
+			".icon-",
+			".iconb-",
+			"icon",
+			"</div",
+			"<div",
+			"</div",
+			"<div",
+			"</div",
+			"<div",
+			"</div",
+			"<div",
+			"</div",
+			"<div",
+			"</span>",
+			"<span class",
+			"</span>",
+			"<span class=",
+			"</span>",
+			"<span class=",
+			".icon1-",
+			"ffb319",
+			"3d7693",
+			"03497e",
+			"0a1b2a",
+			"1F3140",
+			"A65a00",
+			"FF8A00",
+			"A67701",
+			"FFB702",
+			"FFBE00",
+			"a6090d",
+			"FF1D23",
+			"94090D",
+			"ce5950",
+			"9d261d",
+			"176b17",
+			"46a546",
+			"45BF55",
+			"167F39",
+			"data-rel",
+			"#slider",
+			"56",
+			"#CBC9CF",
+			"cbcaca",
+			"barsbg.png",
+			"barbg.png",
+			"barbg.jpg",
+			"g3",
+			"g9",
+			"greenbg.png",
+			"darkbg.png",
+			"</span></li>",
+			"<li><span",
+			"divElement",
+			"black",
+			"fastForward",
+			"fast_forward",
+			"fastForward",
+			"../images/elfinder/",
+			".pieCharts",
+			"class=\"icon ",
+			"../images/chosen-sprite.png",
+			"oneFourth",
+			"threeFourth",
+			"twoThird",
+			"oneThird",
+			".g9",
+			".g8",
+			".g7",
+			".g6",
+			".g5",
+			".g4",
+			".g3",
+			".g2",
+			".g1",
+			"#mainContent",
+			".g12",
+			".g11",
+			".g10",
+			".g9",
+			".g8",
+			".g7",
+			".g6",
+			".g5",
+			".g4",
+			".g3",
+			".g2",
+			".g1",
+			"../images/form/tagedit/",
+			"input g9 last",
+			"class=\"label g3\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/SuggeElson/Desktop/supr admin/user-test/dashboard.html",
+					"settings":
+					{
+						"buffer_size": 58272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 672.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/SuggeElson/Desktop/viva template/viva.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}
